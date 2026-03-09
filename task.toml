@@ -1,8 +1,8 @@
 version = "1.0"
 
 [metadata]
-author_name = "aram-charkhchyan"
-author_email = "aram.charkhchyan97@gmail.com"
+author_name = "jordan.mitchell"
+author_email = "jordan.mitchell@devmail.io"
 difficulty = "easy"
 category = "swe"
 tags = ["python", "mathematics", "debugging", "combinatorics", "poker"]
