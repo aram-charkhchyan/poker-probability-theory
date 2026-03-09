@@ -135,7 +135,7 @@ This project is for educational purposes. Please refer to the task configuration
 
 ## Author
 
-**Jordan Mitchell**  
-jordan.mitchell@devmail.io
+**Aram Charkhchyan**  
+aram.charkhchyan97@gmail.com
 
 *Difficulty: Easy | Category: SWE | Tags: Python, Mathematics, Debugging, Combinatorics, Poker*
